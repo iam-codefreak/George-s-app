@@ -1,6 +1,6 @@
-Print("ThankGod is a fool")
+Print("The Devil is a fool")
 Print(3**5)
-Print("spam" + 3)
+Print("spam" + '3')
 print(20//6)
 print("he/'s the bad guy .he /is good" )
 print (""""A
